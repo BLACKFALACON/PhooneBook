@@ -1,4 +1,4 @@
-package com.example.whatsapp
+package com.wcrop.chat
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

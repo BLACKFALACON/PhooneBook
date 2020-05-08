@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1019223281958",
+    "firebase_url": "https://chat-89bd4.firebaseio.com",
+    "project_id": "chat-89bd4",
+    "storage_bucket": "chat-89bd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019223281958:android:53058dc824388b3f67f1e7",
+        "android_client_info": {
+          "package_name": "com.wcrop.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019223281958-0tq1om47lphiq53bf81uvc2cp78j4u6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7T1UPGsHMC5s60isjPfzjXE3llkP6cxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019223281958-0tq1om47lphiq53bf81uvc2cp78j4u6m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1019223281958-1mo71hgflckccdpnbt2tb0868opgnl6s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wcrop.chat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
