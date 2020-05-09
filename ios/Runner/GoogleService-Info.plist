@@ -29,7 +29,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1019223281958:ios:f2ce361c1d33b30467f1e7</string>
+	<string>1:1019223281958:ios:c39f6db69db355e367f1e7</string>
 	<key>DATABASE_URL</key>
 	<string>https://chat-89bd4.firebaseio.com</string>
 </dict>
